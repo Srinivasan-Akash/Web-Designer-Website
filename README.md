@@ -1,7 +1,7 @@
 # Web-Designer-Website [![Template Project](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 This is basically a one pager Template project made in HTML/CSS for an imaginary web Desin Service on the internet.
-Hope you like my project !! And Note that I haven't made it responsive it only works in laptop screen if you are useing desktop please zomm in or out that might work .
+Hope you like my project !! And Note that I have made it responsive it works in laptop screen and mobile acreen that is from 370px to 480px
 
 
 ## 🛠 Technologies Used
@@ -9,9 +9,16 @@ Hope you like my project !! And Note that I haven't made it responsive it only w
   - CSS - Cascadeing Spread Sheet
   - CSS Flex Box
 
-## Demo
+## Demo Video in Laptop Screen
 
 https://user-images.githubusercontent.com/108281031/180699908-a3edab67-76db-4543-9a92-ca6a5622ce5b.mp4
+
+## Demo Video in Mobile Screen
+
+
+https://user-images.githubusercontent.com/108281031/185436170-cbc9692d-6117-4730-b1f7-3a43feabd638.mp4
+
+
 
 ## Run Locally
 
